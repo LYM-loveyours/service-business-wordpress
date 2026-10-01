@@ -1,0 +1,4 @@
+<?php if (!defined('ABSPATH')) { exit; } ?><!doctype html>
+<html <?php language_attributes(); ?>><head><meta charset="<?php bloginfo('charset'); ?>"><meta name="viewport" content="width=device-width, initial-scale=1"><?php wp_head(); ?></head><body <?php body_class(); ?>><?php wp_body_open(); ?>
+<a class="skip-link" href="#main">Skip to content</a><div class="demo-strip"><span>LYM engineering showcase</span><span>Fictional business · no messages sent</span></div>
+<header class="site-header"><a class="brand" href="<?php echo esc_url(home_url('/')); ?>"><span aria-hidden="true"></span>NORTHLINE</a><nav aria-label="Main navigation"><a href="<?php echo esc_url(home_url('/services/')); ?>">Services</a><a href="<?php echo esc_url(home_url('/about/')); ?>">Our approach</a><a class="nav-cta" href="<?php echo esc_url(home_url('/enquire/')); ?>">Plan a job ↗</a></nav></header><main id="main">

@@ -1,0 +1,513 @@
+{
+  "home": {
+    "title": "Northline \u2014 Good care for your home",
+    "elements": [
+      {
+        "id": "0000009",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-hero"
+        },
+        "elements": [
+          {
+            "id": "0000006",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "flex_direction_mobile": "column",
+              "css_classes": ""
+            },
+            "elements": [
+              {
+                "id": "0000001",
+                "elType": "widget",
+                "widgetType": "heading",
+                "settings": {
+                  "title": "PRACTICAL CARE. CLEAR NEXT STEPS.",
+                  "header_size": "p",
+                  "_css_classes": "north-eyebrow"
+                },
+                "elements": []
+              },
+              {
+                "id": "0000002",
+                "elType": "widget",
+                "widgetType": "heading",
+                "settings": {
+                  "title": "A home worth<br>looking after.",
+                  "header_size": "h1",
+                  "_css_classes": ""
+                },
+                "elements": []
+              },
+              {
+                "id": "0000003",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                  "editor": "<p class=\"north-intro\">Thoughtful repairs and everyday upkeep. Start with what needs doing, and make a clear plan for getting it done.</p>"
+                },
+                "elements": []
+              },
+              {
+                "id": "0000004",
+                "elType": "widget",
+                "widgetType": "button",
+                "settings": {
+                  "text": "Explore a job \u2197",
+                  "link": {
+                    "url": "/enquire/"
+                  },
+                  "_css_classes": "north-button"
+                },
+                "elements": []
+              },
+              {
+                "id": "0000005",
+                "elType": "widget",
+                "widgetType": "text-editor",
+                "settings": {
+                  "editor": "<p style=\"font-size:14px\">Try the demonstration. No enquiry is sent.</p>"
+                },
+                "elements": []
+              }
+            ]
+          },
+          {
+            "id": "0000008",
+            "elType": "container",
+            "settings": {
+              "content_width": "full",
+              "flex_direction": "column",
+              "flex_direction_mobile": "column",
+              "css_classes": ""
+            },
+            "elements": [
+              {
+                "id": "0000007",
+                "elType": "widget",
+                "widgetType": "html",
+                "settings": {
+                  "html": "<figure class=\"house-sheet\"><div class=\"sheet-top\"><span>THE NORTHLINE NOTEBOOK</span><span>01 / HOME CARE</span></div><svg viewBox=\"0 0 520 390\" role=\"img\" aria-label=\"Illustrative house maintenance diagram\"><defs><pattern id=\"grid\" width=\"20\" height=\"20\" patternUnits=\"userSpaceOnUse\"><path d=\"M20 0H0V20\" fill=\"none\" stroke=\"#bbc7cc\" stroke-width=\".5\"/></pattern></defs><rect width=\"520\" height=\"390\" fill=\"url(#grid)\"/><g fill=\"none\" stroke=\"#20394b\" stroke-width=\"3\"><path d=\"M90 190L260 65L430 190M118 171V334H402V171\"/><path d=\"M97 180L260 58L423 180\"/><path d=\"M335 112V68H365V134\"/><rect x=\"160\" y=\"194\" width=\"62\" height=\"57\"/><rect x=\"299\" y=\"194\" width=\"62\" height=\"57\"/><path d=\"M191 194V251M160 222H222M330 194V251M299 222H361\"/><rect x=\"235\" y=\"261\" width=\"52\" height=\"73\"/><path d=\"M75 335H450\"/><path d=\"M402 182H417V328\"/></g><g fill=\"#e9bd42\" stroke=\"#20394b\" stroke-width=\"1.5\"><circle cx=\"370\" cy=\"112\" r=\"18\"/><circle cx=\"153\" cy=\"221\" r=\"18\"/><circle cx=\"416\" cy=\"298\" r=\"18\"/></g><g fill=\"#20394b\" font-size=\"14\" text-anchor=\"middle\"><text x=\"370\" y=\"117\">1</text><text x=\"153\" y=\"226\">2</text><text x=\"416\" y=\"303\">3</text></g><g font-size=\"11\" fill=\"#20394b\"><text x=\"55\" y=\"365\">ROOFLINE</text><text x=\"220\" y=\"365\">JOINERY</text><text x=\"370\" y=\"365\">UPKEEP</text></g></svg><figcaption class=\"sheet-bottom\"><span>A practical view of the whole home.</span><span>Illustration, not building advice</span></figcaption></figure>"
+                },
+                "elements": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "000000b",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": ""
+        },
+        "elements": [
+          {
+            "id": "000000a",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"north-strip\"><strong>Small jobs. Proper consideration.</strong><span>Clear scope</span><span>Practical sequencing</span><span>A tidy handover</span></div>"
+            },
+            "elements": []
+          }
+        ]
+      },
+      {
+        "id": "000000f",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "000000c",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "THE WORK / 01",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "000000d",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "From \u201cone day\u201d<br>to a clear plan.",
+              "header_size": "h2",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "000000e",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"north-services\"><a href=\"/repairs/\"><span>01</span><h3>Small repairs</h3><p>The loose fitting. The sticking door. The job that needs finishing.</p><span aria-hidden=\"true\">\u2197</span></a><a href=\"/services/#seasonal\"><span>02</span><h3>Seasonal upkeep</h3><p>A considered checklist for the changing seasons.</p><span aria-hidden=\"true\">\u2197</span></a><a href=\"/services/#refresh\"><span>03</span><h3>Room refreshes</h3><p>Finishing touches that make a room feel looked after.</p><span aria-hidden=\"true\">\u2197</span></a></div>"
+            },
+            "elements": []
+          }
+        ]
+      },
+      {
+        "id": "0000011",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": ""
+        },
+        "elements": [
+          {
+            "id": "0000010",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<section class=\"north-process\"><div><p class=\"north-eyebrow\">HOW IT WORKS / 02</p><h2>Tell us the job.<br>We\u2019ll map the steps.</h2></div><ol><li><strong>Describe it.</strong> What needs attention, and what matters to you?</li><li><strong>Agree it.</strong> Define the work, access and practical constraints.</li><li><strong>Finish it.</strong> Walk through the agreed scope and hand over clearly.</li></ol></section>"
+            },
+            "elements": []
+          }
+        ]
+      },
+      {
+        "id": "0000013",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": ""
+        },
+        "elements": [
+          {
+            "id": "0000012",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<section class=\"north-close\"><p class=\"north-eyebrow\">START WITH THE SMALL THINGS</p><h2>What\u2019s on your home\u2019s list?</h2><a class=\"north-link\" href=\"/enquire/\">Try the enquiry journey \u2197</a></section>"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "elements": [
+      {
+        "id": "000001a",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "0000014",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "HELP FOR THE EVERYDAY",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000015",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "A little attention.<br>A lot more order.",
+              "header_size": "h1",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "0000016",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p class=\"north-intro\">Illustrative services for a fictional home-care business. Clear boundaries are part of a useful brief.</p>"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000017",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"north-services\"><a href=\"/repairs/\"><span>01</span><h3>Small repairs</h3><p>The loose fitting. The sticking door. The job that needs finishing.</p><span aria-hidden=\"true\">\u2197</span></a><a href=\"/services/#seasonal\"><span>02</span><h3>Seasonal upkeep</h3><p>A considered checklist for the changing seasons.</p><span aria-hidden=\"true\">\u2197</span></a><a href=\"/services/#refresh\"><span>03</span><h3>Room refreshes</h3><p>Finishing touches that make a room feel looked after.</p><span aria-hidden=\"true\">\u2197</span></a></div>"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000018",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<section id=\"seasonal\"><h2>Seasonal upkeep</h2><p>Plan visual checks, straightforward maintenance and a clear list of anything that needs a qualified specialist. No structural diagnosis is offered.</p></section><section id=\"refresh\"><h2>Room refreshes</h2><p>Outline decorating preparation, minor finishing and practical sequencing. Agree materials and exclusions before starting.</p></section>"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000019",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Plan a job \u2197",
+              "link": {
+                "url": "/enquire/"
+              },
+              "_css_classes": "north-button"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  },
+  "repairs": {
+    "title": "Small repairs",
+    "elements": [
+      {
+        "id": "000001f",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "000001b",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "SERVICE / SMALL REPAIRS",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "000001c",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "The little jobs<br>deserve a proper plan.",
+              "header_size": "h1",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "000001d",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p class=\"north-intro\">A sticking internal door, loose cupboard fitting or an unfinished trim. Describe the detail and the access needed.</p><h2>What a brief should include</h2><ul><li>The room and the issue you can see.</li><li>Any access or timing constraints.</li><li>Whether materials have already been chosen.</li></ul><h2>What sits outside this example</h2><p>Gas, mains electrical, structural, asbestos and other specialist work are excluded. This showcase provides no technical building advice or real quotations.</p>"
+            },
+            "elements": []
+          },
+          {
+            "id": "000001e",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Try a repair enquiry \u2197",
+              "link": {
+                "url": "/enquire/"
+              },
+              "_css_classes": "north-button"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "Our approach",
+    "elements": [
+      {
+        "id": "0000024",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "0000020",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "A CLEARER WAY TO START",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000021",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Good work begins<br>with a shared picture.",
+              "header_size": "h1",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "0000022",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p class=\"north-intro\">Northline is fictional. Its website shows how clear service content and an editable WordPress build can make a small-business enquiry easier.</p><h2>Understand before promising</h2><p>Describe the task plainly. Identify what is included, what needs checking and when specialist input is necessary.</p><h2>Keep the handover useful</h2><p>Record the agreed work and explain any next steps. The same principle applies to this website: straightforward editing, documented setup and visible limitations.</p>"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000023",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"north-faq\"><details><summary>Can I book a real job?</summary><p>No. This is a website demonstration. No messages or bookings are sent.</p></details><details><summary>Can the content be edited?</summary><p>Yes. The page headings, text and buttons are native Elementor widgets. The shared header and styling belong to the child theme.</p></details></div>"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  },
+  "enquire": {
+    "title": "Plan a job",
+    "elements": [
+      {
+        "id": "0000029",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "0000025",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "START WITH A BRIEF",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000026",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "What needs<br>a little attention?",
+              "header_size": "h1",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "0000027",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p class=\"north-intro\">Use fictional details to try this form. It sends nothing and clears your entries after completion.</p>"
+            },
+            "elements": []
+          },
+          {
+            "id": "0000028",
+            "elType": "widget",
+            "widgetType": "shortcode",
+            "settings": {
+              "shortcode": "[northline_demo_form]"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Demo privacy",
+    "elements": [
+      {
+        "id": "000002d",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "css_classes": "north-section"
+        },
+        "elements": [
+          {
+            "id": "000002a",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "DEMONSTRATION BOUNDARIES",
+              "header_size": "p",
+              "_css_classes": "north-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "000002b",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "A demo, with<br>clear boundaries.",
+              "header_size": "h1",
+              "_css_classes": ""
+            },
+            "elements": []
+          },
+          {
+            "id": "000002c",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<h2>No enquiry collection</h2><p>The demonstration form validates in your browser. It has no sending endpoint and makes no booking. Entries are cleared after completion. Please use fictional details.</p><h2>WordPress administration</h2><p>Local editor sessions use ordinary WordPress login cookies. These are separate from the visitor form. Never expose this local installation, its demonstration administrator account or editor session to the internet.</p><h2>External services</h2><p>Fonts are served locally. The showcase contains no analytics. An external link to Love Yours Media uses that website\u2019s own privacy terms. A future hosting provider may keep access logs.</p>"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  }
+}
